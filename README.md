@@ -1,4 +1,5 @@
-# bndt-indicator
+# B&DT Club Index
+![PR deploy](https://github.com/hailpam/bndt-indicator/actions/workflows/deploy.yml/badge.svg)
 
 # Requirements
 Python version should be at least 3.11.
